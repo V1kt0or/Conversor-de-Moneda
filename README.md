@@ -2,7 +2,7 @@
 # Conversor de Monedas 🌎💱
 
 Este es un proyecto simple de conversión de monedas utilizando la API de [ExchangeRate-API](https://www.exchangerate-api.com/). El programa permite convertir valores entre diferentes divisas de manera interactiva a través de un menú en la consola.
-![Captura de Pantalla](./img/CM1.png)
+![Captura de Pantalla](./CM1.png)
 ## Características
 
 - Conversión de monedas entre:
